@@ -6,3 +6,10 @@
     height: 18px;
     width: 124px;
 }
+
+@media screen and (max-width: 478px) {
+    .img-height{
+        min-height: 248px;
+        max-height: 268px;
+    }
+}
